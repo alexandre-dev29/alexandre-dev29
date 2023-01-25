@@ -1,5 +1,5 @@
 ![Axel Mwenze GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-dev29&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-dev29&langs_count=16&theme=radical&layout=compact)](https://github.com/alexandre-dev29/alexandre-dev29)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-dev29&langs_count=8&theme=radical&layout=compact)](https://github.com/alexandre-dev29/alexandre-dev29)
 [![Axel Mwenze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandre_dev29)](https://github.com/alexandre-dev29/alexandre-dev29)
 
 
