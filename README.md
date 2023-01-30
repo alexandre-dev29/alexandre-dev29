@@ -2,6 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-dev29&langs_count=8&theme=radical&layout=compact)](https://github.com/alexandre-dev29/alexandre-dev29)
 [![Axel Mwenze's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandre_dev29)](https://github.com/alexandre-dev29/alexandre-dev29)
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/alexandre-dev29/alexandre-dev29/blob/master/devcard.svg" width="400" alt="Axel Mwenze's Dev Card"/></a>
+
 
 <div> 
   <a href="https://www.youtube.com/channel/UChTsPe6FZBxyozw5M-gE76g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
